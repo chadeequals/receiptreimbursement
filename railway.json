@@ -4,6 +4,6 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "node webhook_server.js",
+    "startCommand": "node webhook_server.js":
       }
 }
